@@ -12,4 +12,4 @@ This repository tracks my daily learning progress across these categories:
 * Language: C++
 * Basics: If-Else Conditions
 * Loops: While Loop, Do-While Loop, and For Loop (Currently Learning)
-* Basic Mathematics: Factorial and basic number-based problems
+* Basic Mathematics: Factorial and basic number-based problems.
